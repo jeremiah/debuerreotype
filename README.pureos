@@ -1,0 +1,7 @@
+Steps I took to create pureos rootfs;
+
+Ensure you have Docker installed because debeurreotype uses docker to build.
+
+1. get Guido's pureos.sh script
+2. sudo debuerreotype-init --non-debian pureos green https://pureos.net
+3. 
